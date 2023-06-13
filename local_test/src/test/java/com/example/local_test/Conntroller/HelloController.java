@@ -4,6 +4,7 @@ public class HelloController {
     public static void main(String[] args) {
         System.out.println("Hello Github!");
         System.out.println("Ronin创建");
+        System.out.println("Ronin创建02");
         System.out.println("本地添加");
     }
 }
